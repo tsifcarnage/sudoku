@@ -68,7 +68,7 @@ body {
 /* Responsive pour mobile */
 @media (max-width: 500px) {
   #grid {
-    width: min(95vw, 350px);
+    width: 100%;
   }
 
   .cell {
@@ -78,7 +78,7 @@ body {
 
 @media (max-width: 320px) {
   #grid {
-    width: 95vw;
+    width: 100%;
   }
 
   .cell {
